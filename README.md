@@ -40,34 +40,34 @@ Everything that folows is the message to be encrypted/decrypted.
 
 Example
 
-            Input                              |         Output
-* B Beta III IV I AXLE (HQ) (EX) (IP) (TR) (BY) | QVPQS OKOIL PUBKJ ZPISF XDW
-FROM HIS SHOULDER HIAWATHA                      | BHCNS CXNUO AATZX SRCFY DGU
-TOOK THE CAMERA OF ROSEWOOD                     | FLPNX GXIXT YJUJR CAUGE UNCFM KUF
-MADE OF SLIDING FOLDING ROSEWOOD                | WJFGK CIIRG XODJG VCGPQ OH
-NEATLY PUT IT ALL TOGETHER                      | ALWEB UHTZM OXIIV XUEFP RPR
-IN ITS CASE IT LAY COMPACTLY                    | KCGVP FPYKI KITLB URVGT SFU
-FOLDED INTO NEARLY NOTHING                      | SMBNK FRIIM PDOFJ VTTUG RZM
-BUT HE OPENED OUT THE HINGES                    | UVCYL FDZPG IBXRE WXUEB ZQJO
-PUSHED AND PULLED THE JOINTS                    | YMHIP GRRE
-   AND HINGES                                   | GOHET UXDTW LCMMW AVNVJ VH
-TILL IT LOOKED ALL SQUARES                      | OUFAN TQACK
-   AND OBLONGS                                  | KTOZZ RDABQ NNVPO IEFQA FS
-LIKE A COMPLICATED FIGURE                       | VVICV UDUER EYNPF FMNBJ VGQ
-IN THE SECOND BOOK OF EUCLID                    |
-                                                | FROMH ISSHO ULDER HIAWA THA
-* B Beta III IV I AXLE (HQ) (EX) (IP) (TR) (BY) | TOOKT HECAM ERAOF ROSEW OOD
-QVPQS OKOIL PUBKJ ZPISF XDW                     | MADEO FSLID INGFO LDING ROSEW OOD
-BHCNS CXNUO AATZX SRCFY DGU                     | NEATL YPUTI TALLT OGETH ER
-FLPNX GXIXT YJUJR CAUGE UNCFM KUF               | INITS CASEI TLAYC OMPAC TLY
-WJFGK CIIRG XODJG VCGPQ OH                      | FOLDE DINTO NEARL YNOTH ING
-ALWEB UHTZM OXIIV XUEFP RPR                     | BUTHE OPENE DOUTT HEHIN GES
-KCGVP FPYKI KITLB URVGT SFU                     | PUSHE DANDP ULLED THEJO INTS
-SMBNK FRIIM PDOFJ VTTUG RZM                     | ANDHI NGES
-UVCYL FDZPG IBXRE WXUEB ZQJO                    | TILLI TLOOK EDALL SQUAR ES
-YMHIP GRRE                                      | ANDOB LONGS
-GOHET UXDTW LCMMW AVNVJ VH                      | LIKEA COMPL ICATE DFIGU RE
-OUFAN TQACK                                     | INTHE SECON DBOOK OFEUC LID
-KTOZZ RDABQ NNVPO IEFQA FS                      |
-VVICV UDUER EYNPF FMNBJ VGQ                     |
-          
+                Input                               |         Output
+    * B Beta III IV I AXLE (HQ) (EX) (IP) (TR) (BY) | QVPQS OKOIL PUBKJ ZPISF XDW
+    FROM HIS SHOULDER HIAWATHA                      | BHCNS CXNUO AATZX SRCFY DGU
+    TOOK THE CAMERA OF ROSEWOOD                     | FLPNX GXIXT YJUJR CAUGE UNCFM KUF
+    MADE OF SLIDING FOLDING ROSEWOOD                | WJFGK CIIRG XODJG VCGPQ OH
+    NEATLY PUT IT ALL TOGETHER                      | ALWEB UHTZM OXIIV XUEFP RPR
+    IN ITS CASE IT LAY COMPACTLY                    | KCGVP FPYKI KITLB URVGT SFU
+    FOLDED INTO NEARLY NOTHING                      | SMBNK FRIIM PDOFJ VTTUG RZM
+    BUT HE OPENED OUT THE HINGES                    | UVCYL FDZPG IBXRE WXUEB ZQJO
+    PUSHED AND PULLED THE JOINTS                    | YMHIP GRRE
+       AND HINGES                                   | GOHET UXDTW LCMMW AVNVJ VH
+    TILL IT LOOKED ALL SQUARES                      | OUFAN TQACK
+       AND OBLONGS                                  | KTOZZ RDABQ NNVPO IEFQA FS
+    LIKE A COMPLICATED FIGURE                       | VVICV UDUER EYNPF FMNBJ VGQ
+    IN THE SECOND BOOK OF EUCLID                    |
+                                                    | FROMH ISSHO ULDER HIAWA THA
+    * B Beta III IV I AXLE (HQ) (EX) (IP) (TR) (BY) | TOOKT HECAM ERAOF ROSEW OOD
+    QVPQS OKOIL PUBKJ ZPISF XDW                     | MADEO FSLID INGFO LDING ROSEW OOD
+    BHCNS CXNUO AATZX SRCFY DGU                     | NEATL YPUTI TALLT OGETH ER
+    FLPNX GXIXT YJUJR CAUGE UNCFM KUF               | INITS CASEI TLAYC OMPAC TLY
+    WJFGK CIIRG XODJG VCGPQ OH                      | FOLDE DINTO NEARL YNOTH ING
+    ALWEB UHTZM OXIIV XUEFP RPR                     | BUTHE OPENE DOUTT HEHIN GES
+    KCGVP FPYKI KITLB URVGT SFU                     | PUSHE DANDP ULLED THEJO INTS
+    SMBNK FRIIM PDOFJ VTTUG RZM                     | ANDHI NGES
+    UVCYL FDZPG IBXRE WXUEB ZQJO                    | TILLI TLOOK EDALL SQUAR ES
+    YMHIP GRRE                                      | ANDOB LONGS
+    GOHET UXDTW LCMMW AVNVJ VH                      | LIKEA COMPL ICATE DFIGU RE
+    OUFAN TQACK                                     | INTHE SECON DBOOK OFEUC LID
+    KTOZZ RDABQ NNVPO IEFQA FS                      |
+    VVICV UDUER EYNPF FMNBJ VGQ                     |
+
